@@ -1,0 +1,1 @@
+Git project inside sandbox
